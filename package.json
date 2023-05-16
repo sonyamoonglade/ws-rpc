@@ -1,0 +1,21 @@
+{
+  "name": "ws-rpc",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "simple rpc protocol on top of websockets",
+  "scripts": {
+    "test": "node --test ./tests/"
+  },
+  "keywords": [
+    "rpc",
+    "ws"
+  ],
+  "author": "sonyamoonglade",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
